@@ -18,7 +18,4 @@ This project demonstrates the integration of Python with SQL, handling databases
 - **Git** – Version control for tracking changes  
 - **MySQL Workbench / CLI** – Database creation and management  
 
-Installation & Setup
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/<your_username>/student-management-system.git
+ 
